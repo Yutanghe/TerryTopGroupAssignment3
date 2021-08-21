@@ -1,10 +1,9 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Your personal application that reminds you when to take medication."
+title: "Our Mission"
+excerpt: "Reducing medication errors. Increases the chances of survival."
 header:
   overlay_image: /assets/images/header.jpg
-  caption: "Photo credit: [Offering comfort](https://unsplash.com)"
   actions:
     - label: "Download app"
       url: "https:/404.html"
