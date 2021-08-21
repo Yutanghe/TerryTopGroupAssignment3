@@ -28,7 +28,7 @@ twitter_username: N/A
 github_username:  Yutanghe
 
 # Build settings
-theme: minimal-mistakes-jekyll
+theme: minima
 plugins:
   - jekyll-feed
 
