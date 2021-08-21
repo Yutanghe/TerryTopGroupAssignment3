@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: Pages
 title:  "New title!"
 date:   2021-07-18 19:02:04 +1000
 categories: jekyll update
