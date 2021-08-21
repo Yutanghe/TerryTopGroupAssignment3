@@ -1,6 +1,13 @@
 ---
 permalink: /about/
 title: "About"
+excerpt: "Your personal application that reminds you when to take medication."
+header:
+  overlay_image: /assets/images/header.jpg
+  caption: "Photo credit: [Offering comfort](https://unsplash.com)"
+  actions:
+    - label: "Download app"
+      url: "https:/404.html"
 ---
 
 <q>An issue in the healthcare industry is medication error resulting in adverse patient outcomes. Some reasons for medication errors can include written or verbal miscommunication between staff, staffing and time mismanagement (Hammoudi, Ismaile and Abu Yahya, 2017).</q>
