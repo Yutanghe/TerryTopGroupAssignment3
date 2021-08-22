@@ -11,10 +11,10 @@ author_profile: false
 feature:
 feature_row:
   - image_path: /assets/images/donate$1.jpg
-    url: /about-medi-clock/
+    url: /donate$1/
   - image_path: /assets/images/donate$5.jpg
-    url: /about-medi-clock/
+    url: /donate$5/
   - image_path: /assets/images/donate$Custom.jpg
-    url: /about-medi-clock/
+    url: /donate$Custom/
 ---
 {% include feature_row %}
