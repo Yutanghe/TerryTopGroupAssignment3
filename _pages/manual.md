@@ -16,11 +16,11 @@ feature_row:
     excerpt: "Sign in with your username and password"
   - image_path: /assets/images/manual-image2.jpg
     alt: "Set alarm"
-    title: "Login"
+    title: "Set alarm"
     excerpt: "Set time, patient name, room etc "
   - image_path: /assets/images/manual-image3.jpg
     alt: "Create time table"
-    title: "Login"
+    title: "Create time table"
     excerpt: "Sit back and let the app to the time table for you"
 ---
 {% include feature_row %}
