@@ -1,7 +1,7 @@
 ---
 permalink: /about-us/
-title: "Our Mission"
-excerpt: "Reducing medication errors. Increases the chances of survival."
+title: "About Us"
+excerpt: "We are ambitious as we are capable."
 header:
   overlay_image: /assets/images/header.jpg
   actions:
