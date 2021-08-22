@@ -1,12 +1,13 @@
 ---
-permalink: /about/
+permalink: /our-mission/
 title: "Our Mission"
 excerpt: "Reducing medication errors. Increases the chances of survival."
 header:
   overlay_image: /assets/images/header.jpg
   actions:
     - label: "Download app"
-      url: "https:/404.html"
+      url: "https://rmiteduau.sharepoint.com/sites/A2Group12/Shared%20Documents/General/Mediclock.apk"
+author_profile: false
 ---
 
 <q>An issue in the healthcare industry is medication error resulting in adverse patient outcomes. Some reasons for medication errors can include written or verbal miscommunication between staff, staffing and time mismanagement (Hammoudi, Ismaile and Abu Yahya, 2017).</q>
