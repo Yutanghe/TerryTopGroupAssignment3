@@ -1,7 +1,7 @@
 ---
 permalink: /manual/
 title: "App Manual"
-excerpt: "MediClock is simple application. you can now manage you medication schedule with your finger"
+excerpt: "Medi-Clock is simple application. you can now manage you medication schedule with your finger"
 header:
   overlay_image: /assets/images/header.jpg
   actions:

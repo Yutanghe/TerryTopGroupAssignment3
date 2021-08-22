@@ -1,7 +1,7 @@
 ---
 permalink: /about-medi-clock/
 title: "What is medi-clock?"
-excerpt: "Your personal medication remider."
+excerpt: "Your personal medication reminder."
 header:
   overlay_image: /assets/images/header.jpg
   actions:
