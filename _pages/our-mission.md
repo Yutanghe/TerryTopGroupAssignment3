@@ -5,8 +5,8 @@ excerpt: "Reducing medication errors. Increases the chances of survival."
 header:
   overlay_image: /assets/images/header.jpg
   actions:
-    - label: "Download app"
-      url: "https://rmiteduau.sharepoint.com/sites/A2Group12/Shared%20Documents/General/Mediclock.apk"
+   - label: "Download app"
+     url: /assets/app/Mediclock.apk
 author_profile: false
 ---
 
